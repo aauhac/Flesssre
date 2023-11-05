@@ -1,3 +1,5 @@
+[Jupyter nbviewer](https://nbviewer.org/)
+
 https://wikidocs.net/50739
 https://wikidocs.net/50739
 https://github.com/Kyubyong/wordvectors
