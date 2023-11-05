@@ -220,6 +220,10 @@ def draw_graphs(sim_matrix):
 for i in sim_mat_list:
     draw_graphs(i)
 
+```
+
+랭크매긴 후 요약
+
 ```python
 
 def calculate_score(sim_matrix):
