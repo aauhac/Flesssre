@@ -32,7 +32,7 @@ print("done")
 ```
 
 모여진 링크마다 크롤링 후 전처리
-```
+```python
 train = [] 
 from bs4 import BeautifulSoup
 import requests
@@ -188,7 +188,7 @@ print("done")
 
 코사인 유사도 행렬 생성 후 리스트에 정리
 
-```
+```python
 
 sim_mat_list = []
 
